@@ -1,0 +1,3 @@
+push!(LOAD_PATH, "C:\\Users\\Monika\\Desktop\\lab4")
+include("MyModule.jl")
+using MyModule
